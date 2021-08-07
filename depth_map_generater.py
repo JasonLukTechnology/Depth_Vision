@@ -6,7 +6,7 @@ import numpy as np
 from stereovision.calibration import StereoCalibration
 import json
 
-# Depth map default preset
+# Depth map default preset (adjust on your own)
 SWS = 19   # SAD Windows Size (SWS) (odd 5 to 255)
 PFS = 255  # Pre Filter Size(odd 5 to 255)
 PFC = 63  # Pre Filter Cap (1 to 63)
